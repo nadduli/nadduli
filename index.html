@@ -2,25 +2,49 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Nav-bar</title>
+    <link rel="stylesheet" href="nav.css">
+    
 </head>
 <body>
-    <div class="header"></div>
-<div id="nav">
-    
-    <ul>
-        <h1>CodingNepal</h1>
-        <li><a href="#" class="link activelinks">Home</a></li>
-        <li><a href="#" class="link">HTML and CSS</a></li>
-        <li><a href="#" class="link">Javascript</a></li>
-        <li><a href="#" class="link">PHP</a></li>
-        <li><a href="#" class="link">About Us</a></li>
-        <li><a href="#" class="link">Contact Us</a></li>
-    </ul>
-</div> 
-<div class="footer"></div> 
-    <script src="hello.js"></script>
+    <section id="nav-sec">
+    <div class="bar-1"></div>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+      <div class="navbar-header">
+                
+       <ul>
+        <a class="navbar-brand" href="#">CodingNepal</a>
+        <li><a href="#" class="link active">HOME</a></li>
+                  
+        <li class="dropdown">
+                    <a href="" class="dropbtn">JAVASCRIPT</a>
+                    <div class="dropdown-content">
+                      <a href="#" class="link">DATA TYPES</a>
+                      <a href="#" class="link">VARIABLES</a>
+                      <a href="#" class="link">ARRAYS</a>
+
+                  <li class="dropdown">
+                    <a href="" class="dropbtn" class="link">HTML AND CSS</a>
+                    <div class="dropdown-content">
+                      <a href="#" class="link">NAVIGATION MENU</a>
+                      <a href="#" class="link">FORMS</a>
+                      <a href="#" class="link">IMAGES</a>
+
+                      <li><a href="#" class="link">PHP</a></li>
+                      <li><a href="#" class="link">ABOUT US</a></li>
+                      <li><a href="#" class="link">CONTACT US</a></li>
+
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </section>
+        </div>
+  <script src="hello.js"></script>
 </body>
 </html>
