@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.warning{
+    border: 5px outset red;
+    background-color: khaki;    
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: 70px;
+    color: #fff;
+  }
+  .success {
+    border: 5px outset green;
+    background-color: crimson;    
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: 70px;
+    color: #fff;
+  }
+  .error {
+    border: 5px outset orange;
+    background-color: #aaabad;    
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: 70px;
+    color: #fff;
+  }
