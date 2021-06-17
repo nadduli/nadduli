@@ -14,4 +14,4 @@ Telephone: +256750813048
 Kamwokya Kampala, Uganda
 Seth Cohen Daniel at Facebook
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nadduli=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apinadduli=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
