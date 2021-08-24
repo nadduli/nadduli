@@ -23,7 +23,7 @@ Motivated Software Engineer with mission-driven nature. I truly believe tech can
 ![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadduli&show_icons=true&theme=radical)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect With Me </h3>
 Email:       naddulidaniel94@gmail.com / kyakuwapenny@gmail.com |
 Telephone:   +256750813048 |
 Address:     Kamwokya Kampala, Uganda |
