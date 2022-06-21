@@ -6,7 +6,7 @@ Motivated Software Engineer with mission-driven nature. I truly believe tech can
 - 🔭 &nbsp; I’m currently learning SOFTWARE ENGINEERING AT ALX and Holberton School
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Front-end web developer.
+- 💼 &nbsp; Backend Developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -14,7 +14,7 @@ Motivated Software Engineer with mission-driven nature. I truly believe tech can
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  | C | Bash Scripting | Linux Servers
-- 🌐 &nbsp; React | Nodejs | HTML | CSS | JavaScript | Bootstrap | Django Web Framework
+- 🌐 &nbsp; React | Nodejs | HTML | CSS | JavaScript | Bootstrap | Django Web Framework | Express
 - 🛢 &nbsp; MySQL | Mongo DB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
